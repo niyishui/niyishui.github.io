@@ -1,3 +1,3 @@
 **Welcome to my blog**：
 
-[璞初的木屋](https://yinipeng.github.io)
+[倪易水的博客](https://niyishui.github.io)
